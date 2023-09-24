@@ -12,7 +12,7 @@ Me apasiona el diseño de interfaces de usuario que sean atractivas y fáciles d
 - **JavaScript:** Mi lenguaje principal para desarrollar aplicaciones interactivas y dinámicas.
 - **React:** Me encanta trabajar con React para crear interfaces de usuario reutilizables y escalables.
 - **APIs** Estoy emocionada de explorar y utilizar APIs para integrar datos y funcionalidades relevantes en mis proyectos.
-**Frameworks Front-end:** Tengo experiencia con bibliotecas y frameworks como React y Vue.js para el desarrollo de aplicaciones interactivas. Además, utilizo Bootstrap para agilizar el diseño y la maquetación.
+- **Frameworks Front-end:** Tengo experiencia con bibliotecas y frameworks como React y Vue.js para el desarrollo de aplicaciones interactivas. Además, utilizo Bootstrap para agilizar el diseño y la maquetación.
 
 #### En Busca de Oportunidades 🌱
 
