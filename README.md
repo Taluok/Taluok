@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Soy Tania, una apasionada desarrolladora FullStack trainee/junior con un entusiasmo incansable por crear experiencias web atractivas y funcionales. Mi viaje en el mundo del desarrollo web comenzó hace 1 año y desde entonces he estado sumergida en el emocionante mundo del diseño web y la programación.
+Soy Tania, una desarrolladora FullStack trainee/junior con un entusiasmo incansable por crear experiencias web atractivas y funcionales. Mi viaje en el mundo del desarrollo web comenzó hace 1 año y desde entonces he estado sumergida en el emocionante mundo del diseño web y la programación.
 
 #### ¿Qué me motiva? 🚀
 
